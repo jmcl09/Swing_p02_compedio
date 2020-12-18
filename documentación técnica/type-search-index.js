@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"Clases","l":"Fondo"},{"p":"Clases","l":"Main"},{"p":"Paneles","l":"PanelBotones"},{"p":"Paneles","l":"PanelDatos"},{"p":"Paneles","l":"PanelFormulario"},{"p":"Paneles","l":"PanelHabs"},{"p":"Paneles","l":"PanelTitulo"},{"p":"Clases","l":"Ventana"},{"p":"Paneles","l":"VentanaAltaReservas"}]
